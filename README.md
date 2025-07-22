@@ -3,7 +3,7 @@
 
 **`Estudante de ADS`**
 
-Olá, me chamo Marcelo Andrade, tenho 21 anos e moro em São Paulo. Terminei o ensino médio na E.E. Presidente Kennedy e hoje estou cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie. Gosto muito de tecnologia e, principalmente, de programação. Estou sempre tentando aprender coisas novas e evoluir como desenvolvedor, colocando em prática tudo que estudo e buscando transformar ideias em projetos reais.
+Olá, me chamo Marcelo Andrade, tenho 21 anos e moro em São Paulo. Completei o ensino médio na E.E. Presidente Kennedy e hoje estou cursando Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie. Gosto muito de tecnologia e, principalmente, de programação. Estou sempre tentando aprender coisas novas e evoluir como desenvolvedor, colocando em prática tudo que estudo e buscando transformar ideias em projetos reais.
 
 
 
