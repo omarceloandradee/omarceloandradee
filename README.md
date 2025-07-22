@@ -76,4 +76,5 @@ Me chamo Marcelo Leite de Andrade Neto. Tenho 21 anos e moro em São Paulo. Conc
 
 <br clear="both">
 
+---
 <img src="https://raw.githubusercontent.com/omarceloandradee/omarceloandradee/output/snake.svg" alt="Snake animation" />
