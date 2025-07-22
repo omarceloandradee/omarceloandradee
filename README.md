@@ -3,7 +3,7 @@
 
 **`Estudante de ADS`**
 
-Me chamo Marcelo Leite de Andrade Neto. Tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio na E.E Presidente Kennedy e atualmente curso Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e programação no geral, e estou sempre buscando aprender mais e evoluir na área. Meu objetivo é crescer como desenvolvedor, construir projetos práticos e transformar ideias em soluções reais..
+Me chamo Marcelo Leite de Andrade Neto. Tenho 21 anos e moro em São Paulo. Concluí o ensino médio na E.E Presidente Kennedy e atualmente curso Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e programação no geral, e estou sempre buscando aprender mais e evoluir na área. Meu objetivo é crescer como desenvolvedor, construir projetos práticos e transformar ideias em soluções reais..
 
 
 ---
