@@ -1,0 +1,167 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-name="TV Cultura" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" tvg-chno="2" channel-number="2" group-title="01 - TV ABERTA SP",002 - TV Cultura
+http://45.162.64.114/TV_CULTURA/index.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-name="TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" tvg-chno="3" channel-number="3" group-title="01 - TV ABERTA SP",003 - TV Brasil
+http://45.162.64.114/TV_BRASIL/index.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-name="SBT Nacional" tvg-logo="https://i.imgur.com/tc1ALuu.png" tvg-chno="4" channel-number="4" group-title="01 - TV ABERTA SP",004 - SBT Nacional
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD" tvg-name="Globo SP" tvg-logo="https://i.imgur.com/OoSUg78.png" tvg-chno="5" channel-number="5" group-title="01 - TV ABERTA SP",005 - Globo SP
+http://170.84.165.204/Globo_HD/index.m3u8
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br@SD" tvg-name="Record SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/960px-Logotipo_da_Record.png" tvg-chno="7" channel-number="7" group-title="01 - TV ABERTA SP",007 - Record SP
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br@SD" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/ZJgD38F.png" tvg-chno="9" channel-number="9" group-title="01 - TV ABERTA SP",009 - RedeTV!
+http://45.162.64.114/REDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="TVGazeta.br@SD" tvg-name="TV Gazeta" tvg-logo="https://i.imgur.com/0sksWse.png" tvg-chno="11" channel-number="11" group-title="01 - TV ABERTA SP",011 - TV Gazeta
+http://45.162.64.114/TV_GAZETA/index.m3u8
+#EXTINF:-1 tvg-id="Band.br@SD" tvg-name="Band" tvg-logo="https://i.imgur.com/1r5T6Pw.png" tvg-chno="13" channel-number="13" group-title="01 - TV ABERTA SP",013 - Band
+http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="RedeVida.br@SD" tvg-name="Rede Vida" tvg-logo="https://i.imgur.com/mP1qfp2.png" tvg-chno="15" channel-number="15" group-title="01 - TV ABERTA SP",015 - Rede Vida
+http://46.151.196.223:14244
+#EXTINF:-1 tvg-id="TVAparecida.br@SD" tvg-name="TV Aparecida" tvg-logo="https://i.imgur.com/kxrja0X.png" tvg-chno="16" channel-number="16" group-title="01 - TV ABERTA SP",016 - TV Aparecida
+http://45.162.64.114/TV_APARECIDA/index.m3u8
+#EXTINF:-1 tvg-id="NovoTempo.br@SD" tvg-name="Novo Tempo" tvg-logo="" tvg-chno="17" channel-number="17" group-title="01 - TV ABERTA SP",017 - Novo Tempo
+http://45.162.64.114/NOVO_TEMPO/index.m3u8
+#EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-name="TV Senado" tvg-logo="https://i.imgur.com/duy6waL.png" tvg-chno="20" channel-number="20" group-title="02 - PUBLICOS E EDUCATIVOS",020 - TV Senado
+http://45.162.64.114/TV_SENADO/index.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br@SD" tvg-name="TV Câmara" tvg-logo="https://i.imgur.com/Sdou1Ab.png" tvg-chno="21" channel-number="21" group-title="02 - PUBLICOS E EDUCATIVOS",021 - TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="TVJustica.br@SD" tvg-name="TV Justiça" tvg-logo="https://i.imgur.com/rOQKiMO.png" tvg-chno="22" channel-number="22" group-title="02 - PUBLICOS E EDUCATIVOS",022 - TV Justiça
+http://45.162.64.114/TV_JUSTICA/index.m3u8
+#EXTINF:-1 tvg-id="CanalGov.br@SD" tvg-name="Canal Gov" tvg-logo="https://i.imgur.com/rHPY0Yv.png" tvg-chno="23" channel-number="23" group-title="02 - PUBLICOS E EDUCATIVOS",023 - Canal Gov
+http://45.177.114.115/TV_BRASIL_2/index.m3u8
+#EXTINF:-1 tvg-id="CanalFutura.br@SD" tvg-name="Canal Futura" tvg-logo="https://i.imgur.com/LgynEBC.png" tvg-chno="24" channel-number="24" group-title="02 - PUBLICOS E EDUCATIVOS",024 - Canal Futura
+http://45.162.64.114/FUTURA/index.m3u8
+#EXTINF:-1 tvg-id="CanalEducacao.br@SD" tvg-name="Canal Educação" tvg-logo="https://i.imgur.com/OOB7nrS.png" tvg-chno="26" channel-number="26" group-title="02 - PUBLICOS E EDUCATIVOS",026 - Canal Educação
+http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
+#EXTINF:-1 tvg-id="CanalSaude.br@SD" tvg-name="Canal Saúde" tvg-logo="https://i.imgur.com/ht4tUOc.png" tvg-chno="27" channel-number="27" group-title="02 - PUBLICOS E EDUCATIVOS",027 - Canal Saúde
+https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
+#EXTINF:-1 tvg-id="SESCTV.br@SD" tvg-name="Sesc TV" tvg-logo="https://i.imgur.com/Mu8O6CV.png" tvg-chno="29" channel-number="29" group-title="02 - PUBLICOS E EDUCATIVOS",029 - Sesc TV
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index.m3u8
+#EXTINF:-1 tvg-id="CNNBrasil.br@SD" tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png" tvg-chno="101" channel-number="101" group-title="03 - NOTICIAS",101 - CNN Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="GloboNews.br@SD" tvg-name="GloboNews" tvg-logo="https://i.imgur.com/3yZyaCm.png" tvg-chno="102" channel-number="102" group-title="03 - NOTICIAS",102 - GloboNews
+http://79.127.238.228:14093
+#EXTINF:-1 tvg-id="BandNews.br@SD" tvg-name="BandNews" tvg-logo="https://i.ibb.co/0jVZBFp/u8ya-iw-R-400x400.jpg" tvg-chno="103" channel-number="103" group-title="03 - NOTICIAS",103 - BandNews
+https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br@SD" tvg-name="Jovem Pan News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png" tvg-chno="104" channel-number="104" group-title="03 - NOTICIAS",104 - Jovem Pan News
+http://170.83.49.66:8083/JOVEMPANNEWSHD/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-name="Record News" tvg-logo="https://i.imgur.com/HZDRG0K.png" tvg-chno="105" channel-number="105" group-title="03 - NOTICIAS",105 - Record News
+http://45.162.64.114/RECORD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="TimesBrasil.br@SD" tvg-name="Times Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Times_Brasil_CNBC_logo_2025.svg/960px-Times_Brasil_CNBC_logo_2025.svg.png" tvg-chno="107" channel-number="107" group-title="03 - NOTICIAS",107 - Times Brasil
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTNews.br@SD" tvg-name="SBT News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg" tvg-chno="109" channel-number="109" group-title="03 - NOTICIAS",109 - SBT News
+https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
+#EXTINF:-1 tvg-id="CanalUOL.br@SD" tvg-name="Canal UOL" tvg-logo="https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg" tvg-chno="110" channel-number="110" group-title="03 - NOTICIAS",110 - Canal UOL
+https://video24.mais.uol.com.br/live/6146.m3u8
+#EXTINF:-1 tvg-id="VEJAPlusTV.br@HD" tvg-name="VEJA+ TV" tvg-logo="https://i.imgur.com/n0pxHo4.png" tvg-chno="111" channel-number="111" group-title="03 - NOTICIAS",111 - VEJA+ TV
+https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
+#EXTINF:-1 tvg-id="SporTV2.br@SD" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/pBiUnb2.png" tvg-chno="202" channel-number="202" group-title="04 - ESPORTES",202 - SporTV 2
+http://195.178.110.110/sportv2/index.m3u8
+#EXTINF:-1 tvg-id="SporTV3.br@SD" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/mWOR8pi.png" tvg-chno="203" channel-number="203" group-title="04 - ESPORTES",203 - SporTV 3
+http://195.178.110.110/sportv3/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.br@SD" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" tvg-chno="211" channel-number="211" group-title="04 - ESPORTES",211 - ESPN
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3.br@SD" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" tvg-chno="213" channel-number="213" group-title="04 - ESPORTES",213 - ESPN 3
+http://190.83.2.182:8090/ESPN3/index.m3u8
+#EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" tvg-chno="214" channel-number="214" group-title="04 - ESPORTES",214 - ESPN 4
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-id="BandSports.br@SD" tvg-name="BandSports" tvg-logo="https://i.imgur.com/EuPvzJe.png" tvg-chno="221" channel-number="221" group-title="04 - ESPORTES",221 - BandSports
+https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="Combate.br@SD" tvg-name="Combate" tvg-logo="https://i.imgur.com/ZPYK5jr.png" tvg-chno="239" channel-number="239" group-title="04 - ESPORTES",239 - Combate
+http://143.14.134.107/167/index.m3u8
+#EXTINF:-1 tvg-id="CazeTV.br@SD" tvg-name="CazéTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" tvg-chno="241" channel-number="241" group-title="04 - ESPORTES",241 - CazéTV
+http://138.204.86.4:8080/CAZE_TV/playlist.m3u8
+#EXTINF:-1 tvg-id="NSports.br@SD" tvg-name="N Sports" tvg-logo="https://i.imgur.com/7QnJojr.png" tvg-chno="243" channel-number="243" group-title="04 - ESPORTES",243 - N Sports
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Portuguese" tvg-name="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" tvg-chno="244" channel-number="244" group-title="04 - ESPORTES",244 - FIFA+
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="TelecinePremium.br@SD" tvg-name="Telecine Premium" tvg-logo="https://i.imgur.com/uVFgIr8.png" tvg-chno="310" channel-number="310" group-title="05 - FILMES E SERIES",310 - Telecine Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.185.15.154:9080/stream/28/index.m3u8
+#EXTINF:-1 tvg-id="TelecineAction.br@SD" tvg-name="Telecine Action" tvg-logo="https://i.imgur.com/BHYWG0h.png" tvg-chno="311" channel-number="311" group-title="05 - FILMES E SERIES",311 - Telecine Action
+http://46.151.196.223:14326
+#EXTINF:-1 tvg-id="TelecineCult.br@SD" tvg-name="Telecine Cult" tvg-logo="https://i.imgur.com/6GuHXnr.png" tvg-chno="312" channel-number="312" group-title="05 - FILMES E SERIES",312 - Telecine Cult
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.185.15.154:9080/stream/64/index.m3u8
+#EXTINF:-1 tvg-id="TelecineFun.br@SD" tvg-name="Telecine Fun" tvg-logo="https://i.imgur.com/MO2Ynki.png" tvg-chno="313" channel-number="313" group-title="05 - FILMES E SERIES",313 - Telecine Fun
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.185.15.154:9080/stream/63/index.m3u8
+#EXTINF:-1 tvg-id="TelecineTouch.br@SD" tvg-name="Telecine Touch" tvg-logo="https://i.imgur.com/Nky0hRo.png" tvg-chno="314" channel-number="314" group-title="05 - FILMES E SERIES",314 - Telecine Touch
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.185.15.154:9080/stream/29/index.m3u8
+#EXTINF:-1 tvg-id="AXN.br@SD" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-chno="320" channel-number="320" group-title="05 - FILMES E SERIES",320 - AXN
+http://170.83.16.50/AXN/index.m3u8
+#EXTINF:-1 tvg-id="SonyChannel.br@SD" tvg-name="Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" tvg-chno="321" channel-number="321" group-title="05 - FILMES E SERIES",321 - Sony Channel
+http://170.83.16.50/SONY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="SonyMovies.br@SD" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" tvg-chno="322" channel-number="322" group-title="05 - FILMES E SERIES",322 - Sony Movies
+http://45.162.64.114/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@Brazil" tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" tvg-chno="323" channel-number="323" group-title="05 - FILMES E SERIES",323 - Studio Universal
+http://187.102.210.46/universo/index.m3u8
+#EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" tvg-chno="324" channel-number="324" group-title="05 - FILMES E SERIES",324 - A&E
+http://79.127.238.228:14551
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us@Brazil" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-chno="325" channel-number="325" group-title="05 - FILMES E SERIES",325 - AMC
+http://170.83.49.66:8083/AMCHD/index.m3u8
+#EXTINF:-1 tvg-id="TNTLatinAmerica.us@Brazil" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" tvg-chno="326" channel-number="326" group-title="05 - FILMES E SERIES",326 - TNT
+http://15.204.246.24:8080/TNTHD/index.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.us@Brazil" tvg-name="TNT Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" tvg-chno="327" channel-number="327" group-title="05 - FILMES E SERIES",327 - TNT Novelas
+http://45.162.64.114/TNT_NOVELAS/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Brazil" tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" tvg-chno="328" channel-number="328" group-title="05 - FILMES E SERIES",328 - Lifetime
+http://170.83.16.50/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="GloboplayNovelas.br@SD" tvg-name="Globoplay Novelas" tvg-logo="https://i.ibb.co/m5TBCDL2/Globoplay-Novelas-1.png" tvg-chno="329" channel-number="329" group-title="05 - FILMES E SERIES",329 - Globoplay Novelas
+http://79.127.238.228:14455
+#EXTINF:-1 tvg-id="GNT.br@SD" tvg-name="GNT" tvg-logo="https://i.imgur.com/XymcvMy.png" tvg-chno="330" channel-number="330" group-title="05 - FILMES E SERIES",330 - GNT
+http://170.82.202.31/GNT/index.m3u8
+#EXTINF:-1 tvg-id="AdultSwimLatinAmerica.us@Brazil" tvg-name="Adult Swim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" tvg-chno="331" channel-number="331" group-title="05 - FILMES E SERIES",331 - Adult Swim
+http://45.162.64.114/ADULT_SWIM/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@Brazil" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-chno="401" channel-number="401" group-title="06 - INFANTIL",401 - Cartoon Network
+http://45.162.64.114/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Brazil" tvg-name="Discovery Kids" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" tvg-chno="402" channel-number="402" group-title="06 - INFANTIL",402 - Discovery Kids
+http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
+#EXTINF:-1 tvg-id="Gloob.br@SD" tvg-name="Gloob" tvg-logo="https://i.imgur.com/N1BUULh.png" tvg-chno="403" channel-number="403" group-title="06 - INFANTIL",403 - Gloob
+http://45.235.0.78/Gloob/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRaTimBum.br@SD" tvg-name="TV Rá-Tim-Bum" tvg-logo="https://i.imgur.com/JIQwz0w.png" tvg-chno="405" channel-number="405" group-title="06 - INFANTIL",405 - TV Rá-Tim-Bum
+http://45.177.114.115/TV_RA_TIM_BUM/index.m3u8
+#EXTINF:-1 tvg-id="BoxKidsTV.br@SD" tvg-name="Box Kids TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png" tvg-chno="406" channel-number="406" group-title="06 - INFANTIL",406 - Box Kids TV
+http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
+#EXTINF:-1 tvg-id="RetroCartoon.br@SD" tvg-name="Retrô Cartoon" tvg-logo="https://i.imgur.com/hIlEfhl.png" tvg-chno="408" channel-number="408" group-title="06 - INFANTIL",408 - Retrô Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us@Brazil" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" tvg-chno="501" channel-number="501" group-title="07 - DOCUMENTARIOS",501 - Discovery Channel
+http://45.162.64.114/DISCOVERY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="History.br@SD" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-chno="502" channel-number="502" group-title="07 - DOCUMENTARIOS",502 - History
+http://45.177.114.114/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Brazil" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" tvg-chno="503" channel-number="503" group-title="07 - DOCUMENTARIOS",503 - History 2
+http://45.177.114.114/HISTORY_2/index.m3u8
+#EXTINF:-1 tvg-id="TLCLatinAmerica.us@Brazil" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" tvg-chno="504" channel-number="504" group-title="07 - DOCUMENTARIOS",504 - TLC
+http://79.127.238.228:14433
+#EXTINF:-1 tvg-id="DiscoveryWorld.us@Brazil" tvg-name="Discovery World" tvg-logo="https://i.imgur.com/yNFmUkE.png" tvg-chno="505" channel-number="505" group-title="07 - DOCUMENTARIOS",505 - Discovery World
+http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
+#EXTINF:-1 tvg-id="Arte1.br@SD" tvg-name="Arte 1" tvg-logo="https://i.imgur.com/Ivnk7A6.png" tvg-chno="506" channel-number="506" group-title="07 - DOCUMENTARIOS",506 - Arte 1
+http://45.162.64.114/ARTE1/index.m3u8
+#EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-name="Canal Rural" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-chno="507" channel-number="507" group-title="07 - DOCUMENTARIOS",507 - Canal Rural
+http://170.83.49.66:8083/CANALRURALHD/index.m3u8
+#EXTINF:-1 tvg-id="FishTV.br@SD" tvg-name="Fish TV" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" tvg-chno="508" channel-number="508" group-title="07 - DOCUMENTARIOS",508 - Fish TV
+http://190.128.214.97:64333/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br@SD" tvg-name="Travel Box Brazil" tvg-logo="https://i.imgur.com/3tBJERH.png" tvg-chno="509" channel-number="509" group-title="07 - DOCUMENTARIOS",509 - Travel Box Brazil
+http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8
+#EXTINF:-1 tvg-id="PetloversTV.br@SD" tvg-name="Petlovers TV" tvg-logo="https://petloverstv.com.br/storage/357/config/yqP4nOugWRxRFCmgLqXF4gRKyM9ybsAOfHgUaqPt.png" tvg-chno="510" channel-number="510" group-title="07 - DOCUMENTARIOS",510 - Petlovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaldoBoi.br@SD" tvg-name="Canal do Boi" tvg-logo="https://i.imgur.com/pVM5MhS.png" tvg-chno="511" channel-number="511" group-title="07 - DOCUMENTARIOS",511 - Canal do Boi
+http://45.162.64.114/CANAL_DO_BOI/index.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br@SD" tvg-name="Terra Viva" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-chno="512" channel-number="512" group-title="07 - DOCUMENTARIOS",512 - Terra Viva
+http://45.162.64.114/TERRAVIVA/index.m3u8
+#EXTINF:-1 tvg-id="PlayTV.br@SD" tvg-name="PlayTV" tvg-logo="https://i.imgur.com/Ikrj3lk.png" tvg-chno="601" channel-number="601" group-title="08 - VARIEDADES E MUSICA",601 - PlayTV
+http://45.162.64.114/PLAY_TV/index.m3u8
+#EXTINF:-1 tvg-id="MusicBoxBrazil.br@SD" tvg-name="Music Box Brazil" tvg-logo="https://i.imgur.com/CDPCF2X.png" tvg-chno="602" channel-number="602" group-title="08 - VARIEDADES E MUSICA",602 - Music Box Brazil
+http://168.197.104.22/MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="ChefTV.br@SD" tvg-name="Chef TV" tvg-logo="https://i.imgur.com/UYksTee.png" tvg-chno="604" channel-number="604" group-title="08 - VARIEDADES E MUSICA",604 - Chef TV
+http://168.197.104.22/CHEF_TV/index.m3u8
+#EXTINF:-1 tvg-id="TraceBrazuca.fr@HD" tvg-name="Trace Brazuca" tvg-logo="https://i.imgur.com/DFBocPu.png" tvg-chno="606" channel-number="606" group-title="08 - VARIEDADES E MUSICA",606 - Trace Brazuca
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-id="WooHoo.br@SD" tvg-name="WooHoo" tvg-logo="https://i.imgur.com/me622pa.png" tvg-chno="607" channel-number="607" group-title="08 - VARIEDADES E MUSICA",607 - WooHoo
+http://45.162.64.114/WOOHOO/index.m3u8
+#EXTINF:-1 tvg-id="PlusMaisUm.br@HD" tvg-name="+MaisUm" tvg-logo="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png" tvg-chno="608" channel-number="608" group-title="08 - VARIEDADES E MUSICA",608 - +MaisUm
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="COMBrasil.br@SD" tvg-name="COM Brasil" tvg-logo="https://i.imgur.com/GrjGwKM.png" tvg-chno="609" channel-number="609" group-title="08 - VARIEDADES E MUSICA",609 - COM Brasil
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
+#EXTINF:-1 tvg-id="TVBRICSPortuguese.br@SD" tvg-name="TV BRICS" tvg-logo="https://i.imgur.com/vLpm8tN.png" tvg-chno="701" channel-number="701" group-title="09 - INTERNACIONAIS",701 - TV BRICS
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
